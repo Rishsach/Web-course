@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="HTML Personal Site ">
+  <link rel="stylesheet" href="styles/index.css">
+  <title>Brainvat's Personal Site</title>
+</head>
+
+<body>
+  
+  <table cellspacing="20">
+    <tr>
+      <td valign="top">
+        <img src="images/rishabh.png" alt="Rishabh">
+
+      </td>
+      <td>
+        <h1>Rishabh Sachdeva</h1>
+       
+        <p>
+          I am a Btech student 2nd year at Srm Delhi NCR Campus. I am passionate related to web and Ml.
+        </p>
+        
+      </td>
+    </tr>
+  </table>
+  <hr />
+  
+  <h3>Skills</h3>
+  <table>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>
+              Social media
+            </td>
+            <td>
+              ★★★★
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Video editing
+            </td>
+            <td>
+              ★★★★★
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              Web Programming
+            </td>
+            <td>
+              ★★★
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Calculus
+            </td>
+            <td>
+              ★★★★
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <a href="hobbies.html">My Hobbies</a>
+  <a href="contact-me.html">Contact Me</a>
+</body>
+
+</html>
